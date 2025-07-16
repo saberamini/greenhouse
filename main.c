@@ -4,4 +4,6 @@ int main(){
 
     int x;
     x= 10;
+    //new bug fix
+    int z = 10;
 }
